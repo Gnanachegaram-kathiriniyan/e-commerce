@@ -1,0 +1,6 @@
+.backroundImgeSnaks {
+  width: 100%;
+  background-image: url("../Images/Snacks02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
