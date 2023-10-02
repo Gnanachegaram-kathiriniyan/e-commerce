@@ -12,4 +12,8 @@
    background-repeat: no-repeat;
  }
 
+.img-fluid{
+  max-height: 200px;
+  max-width: 200px;
+}
  
